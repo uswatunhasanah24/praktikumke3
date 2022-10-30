@@ -7,68 +7,35 @@
 ### PRAKTIKUM3
 
 ## Latihan1
-## Penggunaan END
+## Ketik rumus END yang di ecampus
 
-dalam fungsi cetak digunakan untuk menambahkan string. diakhir outputnya (end=") melewati melewati spasi ke parameter menunjukan bahwa karakter
-akhir harus diidentifikasikan oleh spasi
-
-![gambar1](foto/ss15.png)
-
-## Penggunaan separator
-
-![gambar2](foto/ss1.png)
+![gambar1](foto/fo1.png)
 
 ## String Format
+![gambar2](foto/fo9.png)
 
-Format string kemungkinan memasukan item
-kedalam string dari pada menggabungkan
-string menggunakan (,) / string contatenation
-
-![gambar3](foto/ss2.png)
-
-## String Format 2
-
-![gambar4](foto/ss3.png)
 
 ## Hasil Latihan 1
 
-![gambar5](foto/ss4.png)
+![gambar5](foto/fo2.png)
 
-![gambar6](foto/ss5.png)
+![gambar6](foto/fo3.png)
 
 ## Latihan 2
- Input Variable
-
-![gambar7](foto/ss6.png)
-
-## Mencetak Variable
-
-Mencetak variable ketika sudah diinput 
-
-![gambar8](foto/ss7.png)
-
-## Penggabungan Variable
-
-Penggabungan antara dua variable
-
-![gambar9](foto/ss8.png)
-
-## Input dan konversi nilai variable 2
-
-![gambar10](foto/ss9.png)
+## Rumus variable
+ 
+ ![gambar](foto/fo4.png)
 
 ### Hasil latihan 2
 
-![gambar11](foto/ss10.png)
+![gambar6](foto/fo5.png)
 
 ### Latihan 3
 
 Menggunakan string format untuk membuat
 belah ketupat
 
-![gambar12](foto/ss11.png)
-
-![gambar13](foto/ss12.png)
+![gambar6](foto/fo6.png)
 
 ### Latihan 4
 
@@ -76,30 +43,38 @@ belah ketupat
 
 ## Flowchart untuk mencari lingkaran
 
-![gambar14](foto/ss13.png)
+![gambar8](foto/ss7.png)
 
 ## Membuat program untuk menghitung luas lingkaran
 
-Rumuas luas lingkaran yaitu : Phi r r 
+Rumuas luas lingkaran yaitu 
+
+```
+ Phi r r 
+```
 
 ## Mengimput suatu nilai jari-jari
 
-untuk mencari luas lingkaran 
+untuk mencari luas lingkaran
+
+```
 r = int(input('masukan jari-jari lingkaran')
+```
 
 ## Menghitung suatu nilai jari-jari
 
 untuk mencari luas lingkaran
+
+```
 r = int(input('masukan jari-jari lingkaran: '))
+```
 
 ## Mendeklarasikan nilai Phi
 
+```
 L = phi * (r * r)
+```
 
 ## Mencetak hasil 
 
-![gambar15](foto/ss16.png)
-
-## Hasil luas lingkaran
-
-![gambar16](foto/ss14.png)
+![gambar9](foto/fo8.png)
